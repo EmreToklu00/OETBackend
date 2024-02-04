@@ -22,7 +22,7 @@ Let's begin with the necessary installations:
 5. **Clone the Project**: Clone the project to your local computer using Git with the following command:
 
    ```bash
-   git clone https://link-to-project
+   git clone https://github.com/EmreToklu00/OETBackend.git
    ```
 
 6. **Set Up the Database**: In the project directory, open the model using MySQL Workbench, which is located in the "Github" folder at "Github/MySQLDatabase/oet-model.mwb." Then, select "Database" from the MySQL Workbench menus, choose "Forward Engineer," and proceed with setting up the database.
